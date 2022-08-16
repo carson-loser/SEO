@@ -1,8 +1,8 @@
 # Horiseon Management
 
-#### * By Carson Loser
+#### By Carson Loser
 
-#### * This application provides an outlook on managing and marketing a business.
+#### This application provides an outlook on managing and marketing a business.
 
 # Prerequisites and Dependencies
 
@@ -18,7 +18,7 @@
 
 # Live Server URL
 
-- 
+- https://carson-loser.github.io/SEO/
 
 # Assets
 
